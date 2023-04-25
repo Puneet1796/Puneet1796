@@ -1,16 +1,11 @@
-### Hi there 👋
+- 👋 Hi, I’m Puneet (@Puneet1796)
+- 👀 I’m interested in Coding, Games, Guitar (Still in progress)
+- 🌱 I’m currently learning Guitar
+- 💞️ I’m looking to collaborate in Open-Source projects
+- 📫 How to reach me: drop a mail at puneetv57@gmail.com.
 
-<!--
-**Puneet1796/Puneet1796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+puneet-practeon/puneet-practeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+[![Puneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puneet1796&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
